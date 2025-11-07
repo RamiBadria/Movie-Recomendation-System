@@ -1,0 +1,5 @@
+apache-airflow-providers-mysql
+apache-airflow-providers-docker
+PyMySQL
+pandas
+kagglehub

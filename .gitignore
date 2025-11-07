@@ -205,3 +205,35 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+pip-cache/
+
+# Data & Models
+*.dat
+*.csv
+*.npz
+/data/
+/model/saved_model/
+
+# Docker & Volumes
+airflow_db_data/
+mysql_data/
+airflow_logs/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+*.ipynb_checkpoints
+
+# Kaggle cache
+.cache/
+
+# Environment files
+.env
+*.env
