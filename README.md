@@ -32,6 +32,6 @@ The project is designed as a complete ML engineering pipeline, moving from gener
 ├── api/              # Backend code for serving the model
 ├── model/            # Scripts for training and managing the FM model
 ├── notebooks/        # Jupyter notebooks for EDA and prototyping
-├── docker-compose.yml# Orchestration for all services
+├── docker-compose.yml # Orchestration for all services
 ├── Rendle2010FM.pdf  # Reference paper for the algorithm
 └── README.md         # Project documentation
